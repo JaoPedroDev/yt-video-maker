@@ -6,4 +6,4 @@ title = "Naruto Ultimate Ninja Storm"
 
 final_clip = gt.title_maker(title, clip)
 
-final_clip.write_gif("test.gif", fps=2)
+final_clip.write_gif("teste-git.gif", fps=2)
