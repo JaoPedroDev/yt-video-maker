@@ -2,11 +2,11 @@ Scripts that download videos from a list of Youtube links, edit them in a format
 
 Youtube channel with some videos made with the scripts: [Great Games To Play](https://www.youtube.com/channel/UCxQVOk3d9C2rnLBt-b-J9cQ)
 
-**youtube-dl pakage is required to download the videos**
+**youtube-dl pakage is required to be installed, to download the videos**
 
 # How to use
 
-it's not fully automated, so there is a need to do some manual work to make the videos look good(like the ones on the above Youtube channel).
+it's not fully automated, so there is a need to do some manual work to make the videos look good(like the ones on the Youtube channel above).
 
 - Put the youtube video links on the "list.txt" file
 - Above each link, put the Title of the video you want to show one the bottom left coner
@@ -14,4 +14,5 @@ it's not fully automated, so there is a need to do some manual work to make the 
 - Run "ytvideodownload.py" to download the videos
 - Edit the downloaded videos to your liking(don't change their names)
 - Change the "videomake.py" varibles to the path you want
+- Run "videomake.py"
 - Done
